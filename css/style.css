@@ -58,6 +58,14 @@ p { /* select all <p> */
   line-height: 1.5em;
 }
 
+
+* {
+  box-sizing: border-box;
+}
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
 figcaption {
   /*font-weight: normal;
   font-size: 0.75em;
