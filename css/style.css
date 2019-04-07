@@ -41,6 +41,7 @@ selector {
   margin-left: 2%;
 }
 
+img, video, audio { max-width: 100%;}
 .first {
   margin-left: 0%;
 }
