@@ -41,6 +41,9 @@ selector {
   margin-left: 2%;
 }
 
+.first {
+  margin-left: 0%;
+}
 p { /* select all <p> */
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
