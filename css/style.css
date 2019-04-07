@@ -58,6 +58,9 @@ p { /* select all <p> */
   line-height: 1.5em;
 }
 
+#social {
+  position: fixed;
+}
 
 * {
   -webkit-box-sizing: border-box;
